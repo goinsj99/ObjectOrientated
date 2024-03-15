@@ -1,0 +1,5 @@
+Type: opening_complete, Message: Opening is complete for day 19, Data: 1054019.9196318
+Type: opening_complete, Message: Opening is complete for day 19, Data: 1054019.9196318
+Type: washing_complete, Message: Washing is complete for day 19, Data: 2
+Type: repair_complete, Message: Repair is complete for day 19, Data: 16
+Type: selling_complete, Message: Selling is complete for day 19, Data: 0
