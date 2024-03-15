@@ -1,0 +1,1 @@
+Type: opening_complete, Message: Opening is complete for day 1, Data: 500000.0

@@ -1,0 +1,1 @@
+Type: opening_complete, Message: Opening is complete for day 27, Data: 1368355.1226070412
