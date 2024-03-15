@@ -1,0 +1,92 @@
+This is what is printed to the Terminal!!!!!!
+
+Tracker: Day 1
+Total money earned by all Staff: $900.00
+Total money earned by the FNCD: $225589.07
+Tracker: Day 2
+Total money earned by all Staff: $3000.00
+Total money earned by the FNCD: $315780.99
+Tracker: Day 3
+Total money earned by all Staff: $5700.00
+Total money earned by the FNCD: $315780.99
+Tracker: Day 4
+Total money earned by all Staff: $8900.00
+Total money earned by the FNCD: $315780.99
+Tracker: Day 5
+Total money earned by all Staff: $13200.00
+Total money earned by the FNCD: $361601.73
+Tracker: Day 6
+Total money earned by all Staff: $17200.00
+Total money earned by the FNCD: $441383.18
+Tracker: Day 7
+Total money earned by all Staff: $21000.00
+Total money earned by the FNCD: $671178.12
+Tracker: Day 8
+Total money earned by all Staff: $28100.00
+Total money earned by the FNCD: $758921.25
+Tracker: Day 9
+Total money earned by all Staff: $36400.00
+Total money earned by the FNCD: $943286.77
+Tracker: Day 10
+Total money earned by all Staff: $45900.00
+Total money earned by the FNCD: $1046407.82
+Tracker: Day 11
+Total money earned by all Staff: $52540.00
+Total money earned by the FNCD: $1046407.82
+Tracker: Day 12
+Total money earned by all Staff: $60390.00
+Total money earned by the FNCD: $1046407.82
+Tracker: Day 13
+Total money earned by all Staff: $69160.00
+Total money earned by the FNCD: $1184497.16
+Tracker: Day 14
+Total money earned by all Staff: $76940.00
+Total money earned by the FNCD: $1256978.73
+Tracker: Day 15
+Total money earned by all Staff: $82530.00
+Total money earned by the FNCD: $1256978.73
+Tracker: Day 16
+Total money earned by all Staff: $88800.00
+Total money earned by the FNCD: $1256978.73
+Tracker: Day 17
+Total money earned by all Staff: $90560.00
+Total money earned by the FNCD: $1256978.73
+Tracker: Day 18
+Total money earned by all Staff: $93130.00
+Total money earned by the FNCD: $1256978.73
+Tracker: Day 19
+Total money earned by all Staff: $96010.00
+Total money earned by the FNCD: $1256978.73
+Tracker: Day 20
+Total money earned by all Staff: $100180.00
+Total money earned by the FNCD: $1325434.51
+Tracker: Day 21
+Total money earned by all Staff: $105270.00
+Total money earned by the FNCD: $1396917.60
+Tracker: Day 22
+Total money earned by all Staff: $108190.00
+Total money earned by the FNCD: $1396917.60
+Tracker: Day 23
+Total money earned by all Staff: $114840.00
+Total money earned by the FNCD: $1547366.56
+Tracker: Day 24
+Total money earned by all Staff: $119560.00
+Total money earned by the FNCD: $1660277.47
+Tracker: Day 25
+Total money earned by all Staff: $128000.00
+Total money earned by the FNCD: $1660277.47
+Tracker: Day 26
+Total money earned by all Staff: $135340.00
+Total money earned by the FNCD: $1660277.47
+Tracker: Day 27
+Total money earned by all Staff: $143140.00
+Total money earned by the FNCD: $1769892.93
+Tracker: Day 28
+Total money earned by all Staff: $145390.00
+Total money earned by the FNCD: $1900104.05
+Tracker: Day 29
+Total money earned by all Staff: $153240.00
+Total money earned by the FNCD: $1971762.48
+Tracker: Day 30
+Total money earned by all Staff: $160240.00
+Total money earned by the FNCD: $2111324.63
